@@ -1,0 +1,26 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "3333",
+                "symbol": "3333",
+                "decimals": "18",
+                "supply": "333333333"
+            }
+        },
+        {
+            "category": "file_storage",
+            "name": "core-ipfs",
+            "parameters": {
+                "mode": "single"
+            }
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "react"
+}

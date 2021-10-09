@@ -1,0 +1,15 @@
+{
+    "name": "testin",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/asset_value_tracking/core-token/name": "3333",
+        "/category/asset_value_tracking/core-token/symbol": "3333",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "333333333"
+    }
+}
